@@ -1,0 +1,25 @@
+#topZone {
+    display: block;
+    text-align: center;
+}
+
+#robotZone {
+    display: flex;
+    justify-content: space-around;
+}
+
+#textbox {
+    text-align: center;
+    font-size: 2em;
+    padding: 2%;
+}
+
+.robots {
+    word-wrap: break-word;
+    text-align: left;
+    height: auto;
+    width: 200px;
+    margin-top: 5%;
+    border: 2px solid black;
+    text-align: center;
+}
